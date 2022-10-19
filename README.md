@@ -1,5 +1,5 @@
 # nft-marketplace
-The front-end is built by react and back-end with solidity. To run the project please ensure you have Ganache and Truffle installed, apart from that please also make
+To run the project please ensure you have Ganache and Truffle installed, apart from that please also make
 sure you have Metamask plugin installed in your browser. <br>
 This project builds a marketplace where the user is able to mint nfts to their collections. The interface looks like this:
 
@@ -20,4 +20,5 @@ https://i.ibb.co/mRyvbsg/k10.png<br>
 https://i.ibb.co/XVkGmYh/k11.png<br>
 
 to clear up all the nfts: 
-run in terminal: truffle migrate --reset
+run in terminal: truffle migrate --reset<br>
+In this project the front-end is built by react with the Web3 library and the back-end implemented with solidity.
