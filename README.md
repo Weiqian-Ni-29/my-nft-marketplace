@@ -1,19 +1,6 @@
-# nft-marketplace-starter-kit
-Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
-Make sure you are in the source file. 
+# nft-marketplace
+The front-end is built by react and back-end with solidity. To run the project please ensure you have Ganache and Truffle installed, apart from that please also make
+sure you have Metamask plugin installed in your browser. <br>
+This project builds a marketplace where the user is able to mint nfts to their collections. The interface looks like this:
 
-**Please ensure you have downloaded the following additionally **
-
-1. Ganache
-2. Truffle (global installation)
-3. Metamask.io (hooked up on the browser)
-
-**To run the development server on a local host scripts:** npm run start
-
-For truffle tests and console please consult the official Truffle documentaion for updates.
-
-Follow the course module on Udemy to build this project from the ground up:
-https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/
-
-Good luck and have fun!
-
+![image](https://user-images.githubusercontent.com/101934090/196635082-5f109216-47c7-4224-87b9-2a1271b5491a.png)
