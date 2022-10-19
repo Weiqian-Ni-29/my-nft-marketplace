@@ -6,7 +6,7 @@ This project builds a marketplace where the user is able to mint nfts to their c
 ![image](https://user-images.githubusercontent.com/101934090/196635082-5f109216-47c7-4224-87b9-2a1271b5491a.png)
 <br>
 To mint a new nft please input the location of the nft file and hit mint, your Metamask wallet should be popped up and let you confirm the transaction. Some default
-file locations are:
+file locations are:<br>
 https://i.ibb.co/2n0Rk1t/k1.png<br>
 https://i.ibb.co/tsbDZd4/k2.png<br>
 https://i.ibb.co/bR3wDnH/k3.png<br>
