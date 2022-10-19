@@ -4,3 +4,5 @@ sure you have Metamask plugin installed in your browser. <br>
 This project builds a marketplace where the user is able to mint nfts to their collections. The interface looks like this:
 
 ![image](https://user-images.githubusercontent.com/101934090/196635082-5f109216-47c7-4224-87b9-2a1271b5491a.png)
+<br>
+To mint a new nft please input the location of the nft file and hit mint, your Metamask wallet should be popped up and let you confirm the transaction.
